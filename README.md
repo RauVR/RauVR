@@ -4,29 +4,26 @@
 **RauVR/RauVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-  <h3>Java</h3>
-  <p>Experiencia en desarrollo de aplicaciones empresariales con Java EE.</p>
-  <p>Conocimiento de frameworks como Spring y Hibernate.</p>
-</div>
+<style>
+  .skill-button {
+    background-color: #4CAF50; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espacio interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como bloque en línea */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 4px 2px; /* Margen externo */
+    cursor: pointer; /* Cursor al pasar el ratón */
+    border-radius: 5px; /* Borde redondeado */
+  }
+</style>
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-  <h3>HTML</h3>
-  <p>Dominio en la creación de estructuras de páginas web utilizando HTML5.</p>
-  <p>Experiencia en el diseño de interfaces de usuario accesibles y responsivas.</p>
-</div>
-
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-  <h3>CSS</h3>
-  <p>Habilidad para estilizar páginas web utilizando CSS3.</p>
-  <p>Conocimiento de preprocesadores como Sass para mejorar la eficiencia en el desarrollo.</p>
-</div>
-
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
-  <h3>JavaScript</h3>
-  <p>Experiencia en el desarrollo de interacciones dinámicas en páginas web con JavaScript.</p>
-  <p>Conocimiento de frameworks como React.js y Vue.js para la creación de aplicaciones de una sola página.</p>
-</div>
+<a href="#" class="skill-button">Java</a>
+<a href="#" class="skill-button">HTML</a>
+<a href="#" class="skill-button">CSS</a>
+<a href="#" class="skill-button">JavaScript</a>
 
 Here are some ideas to get you started:
 
