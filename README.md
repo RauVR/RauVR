@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+## My name is Raúl Ventura and I am a beginner software engineer.
 
-**RauVR/RauVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
